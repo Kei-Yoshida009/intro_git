@@ -20,5 +20,6 @@ git commit -v
 
 git log
 
-
 git rm filename
+
+git diff ローカルとステージングの差分
