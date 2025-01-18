@@ -21,3 +21,4 @@ git commit -v
 git log
 
 
+git rm filename
