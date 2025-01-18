@@ -1,3 +1,23 @@
 はじめてテキスト
 これからいろいろ学びます。
 Gitはコマンドラインで操作するのが無難
+
+git commit filename
+git commit .
+
+git remote add origin git@github.com:Kei-Yoshida009/intro_git.git
+
+git branch -M main
+git push -u origin main
+
+git status
+
+
+ファイル変更後
+git add .
+
+git commit -v
+
+git log
+
+
